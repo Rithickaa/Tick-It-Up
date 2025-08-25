@@ -1,0 +1,25 @@
+.hd li{
+    text-align: left;
+}
+.head{
+    font-size: large;
+    text-decoration:;
+}
+.nav-link svg {
+  transition: transform 0.3s ease;
+}
+
+.nav-link:hover .icon, .nav-link:hover svg {
+  transform: translateY(-10px);
+  height: 40px;
+  width: 35px;
+}
+body{
+  background-image: url(https://i.pinimg.com/736x/08/c8/7e/08c87e7270e7558c0fd5e358aec3bb49.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+  color: white;
+}
+
